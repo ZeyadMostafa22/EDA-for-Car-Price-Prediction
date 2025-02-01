@@ -1,0 +1,1 @@
+This project focuses on performing an in-depth Exploratory Data Analysis (EDA) to gain insights into key factors influencing car prices and prepare the dataset for building predictive models. The objective is to analyze, visualize, and understand patterns in the data that affect car pricing decisions.
